@@ -1,1 +1,2 @@
-dimucchuds31 | DEFAULT[C] | gm+ds31
+dimucchuds31 | DEFAULT[C] | [d] 10,m
+
